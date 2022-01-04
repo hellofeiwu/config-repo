@@ -1,0 +1,5 @@
+info:
+  profile: prod
+  
+name: paul
+word: 'hello config world prod'
