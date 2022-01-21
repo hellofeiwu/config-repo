@@ -3,3 +3,5 @@ info:
   
 name: paul
 word: 'hello config world prod 1'
+
+food: '{cipher}f49ae898efefb23730c26f637d5eb11f2b66287261058369c7028da8b0e97470'
