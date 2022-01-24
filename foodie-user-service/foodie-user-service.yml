@@ -1,5 +1,3 @@
-test: heTest
-
 management:
   security:
     enabled: false
