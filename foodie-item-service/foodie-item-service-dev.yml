@@ -1,0 +1,6 @@
+my:
+  val: 'hello world my val'
+# 数据库连接串 & 密码
+mariadb:
+  url: 'jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
+  password: '{cipher}9f1321c2bda552658bd5cf65a1507603d2b968e012d9f62d9e7a1590d7814ca7'
